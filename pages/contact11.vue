@@ -1,25 +1,13 @@
-<template >
-    <div>
-        
+<template>
+    <div class="contact">
         <div class="container">
-    <div class="row my-5">
-       
-        <div class="col-md-12 col-sm-12">
-            <div class="serviceBox green">
-                <div class="service-icon">
-                    <span><img src="/image/contact.png" alt=""  ></span>
-                </div>
-                <h2 class="title">Contact US</h2>
-                <hr
-              class="mb-5 mt-0 d-inline-block mx-auto"
-              style="width: 60px; background-color: #1e97ec; height: 3px"
-            />
+            <h2 class="text-center mb-5">Contact Us</h2>
 
-                <div class="row">
+            <div class="row">
                 <div class="col-md-7 col-xl-7 col-sm-12">
                     <h6 class="text-uppercase fw-bold">GET IN TOUCH</h6>
                     <hr class="mb-4 mt-0 d-inline-block mx-auto"
-                        style="width: 60px; background-color: #1E97EC; height: 2px" />
+                        style="width: 60px; background-color: #7c4dff; height: 2px" />
                     <p>
                         Feel free to contact us if you need any assistance, any help or
                         another question.
@@ -53,7 +41,7 @@
                 <div class="col-md-5 col-xl-5 col-sm-12">
                     <h6 class="text-uppercase fw-bold">CONTACT INFO</h6>
                     <hr class="mb-4 mt-0 d-inline-block mx-auto"
-                        style="width: 60px; background-color: #1E97EC; height: 2px" />
+                        style="width: 60px; background-color: #7c4dff; height: 2px" />
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adip, sed do eiusmod tempor
                         incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -89,51 +77,10 @@
                     </table>
                 </div>
             </div>
-                
-            </div>
         </div>
     </div>
-</div>
-        
-    </div>
-    
 </template>
 <style scoped>
-.serviceBox{
-    background: linear-gradient(-45deg, #d5d8dd, #fff);
-    font-family: 'Lato', sans-serif;
-    text-align: center;
-    padding: 25px;
-    border-radius: 20px;
-    margin: 5px 0 0 5px;
-    border: 4px solid #fff;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3), -5px -5px 0 5px #ff7905;
-}
-.serviceBox .service-icon img{
-    color: #333;
-    background: linear-gradient(to right bottom, #d5d8dd, #fff);
-    font-size: 55px;
-    line-height: 116px;
-    width: 120px;
-    height: 120px;
-    margin: 0 auto 30px;
-    border-radius: 50%;
-    border: 5px solid #fff;
-}
-.serviceBox .description{
-    color: #666;
-    font-size: 16px;
-    line-height: 24px;
-    text-align: justify;
-    margin: 0;
-}
-.serviceBox.green{ box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3), -5px -5px 0 5px #1E97EC; }
-.serviceBox.green .title{ color: #1E97EC;font-weight: bolder; }
-.serviceBox.black{ box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3), -5px -5px 0 5px #00262E; }
-.serviceBox.black .title{ color: #00262E; }
-@media only screen and (max-width: 990px){
-    .serviceBox{ margin: 0 0 30px; }
-}
 .contact {
     /* background: #fffcf2; */
     padding: 70px 0px;
@@ -158,13 +105,8 @@
     border: none;
     color: #fff;
     font-weight: bolder;
-    float:left;
 }
 .btn-contact:hover{
     background: #000 !important;
 }
-.form-control {
-    background: #E8EAED;
-}
-
 </style>

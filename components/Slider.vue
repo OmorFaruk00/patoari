@@ -49,12 +49,14 @@
     },
   };
   </script>
-  <style scoped>  
+  <style>
+  /* assets/carousel.css */
   .carousel-caption {
     opacity: 0;
     transform: translateY(100px);
     transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
-  }  
+  }
+  
   .carousel-item.active .carousel-caption {
     opacity: 1;
     transform: translateY(0);
