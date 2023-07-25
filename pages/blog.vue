@@ -18,7 +18,7 @@
                 dignissimos. Corporis numquam quasi atque tempore!
               </p>
               <div class="read-btn">
-                <NuxtLink class="read-more" to="/blog"
+                <NuxtLink class="read-more" to="/blog-details"
                   >Read More <img src="/image/arrow.png" alt="" class="icon"
                 /></NuxtLink>
               </div>
@@ -39,7 +39,7 @@
                 dignissimos. Corporis numquam quasi atque tempore!
               </p>
               <div class="read-btn">
-                <NuxtLink class="read-more" to="/blog"
+                <NuxtLink class="read-more" to="/blog-details"
                   >Read More <img src="/image/arrow.png" alt="" class="icon"
                 /></NuxtLink>
               </div>
@@ -60,76 +60,77 @@
                 dignissimos. Corporis numquam quasi atque tempore!
               </p>
               <div class="read-btn">
-                <NuxtLink class="read-more" to="/blog"
+                <NuxtLink class="read-more" to="/blog-details"
+                  >Read More <img src="/image/arrow.png" alt="" class="icon"
+                /></NuxtLink>
+              </div>
+            </div>
+          </div>
+          <div class="col-4 col-md-4 col-xl-4 px-5 mb-5">
+            <img src="/image/blog4.jpeg" alt="" class="card-image" />
+            <div class="p-3">
+              <ul class="inline-list">
+                <li><img src="/image/user.png" alt="" /> John Cha</li>
+                <li><img src="/image/calendar.png" alt="" /> 21-07-2023</li>
+              </ul>
+              <h4 class="my-3">Blog Title</h4>
+              <p class="text-container">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Id eum,
+                in pariatur recusandae libero hic quidem ex exercitationem
+                sapiente? Iusto ea perferendis consequuntur doloremque
+                dignissimos. Corporis numquam quasi atque tempore!
+              </p>
+              <div class="read-btn">
+                <NuxtLink class="read-more" to="/blog-details"
+                  >Read More <img src="/image/arrow.png" alt="" class="icon"
+                /></NuxtLink>
+              </div>
+            </div>
+          </div>
+          <div class="col-4 col-md-4 col-xl-4 px-5 mb-5">
+            <img src="/image/blog5.png" alt="" class="card-image" />
+            <div class="p-3">
+              <ul class="inline-list">
+                <li><img src="/image/user.png" alt="" /> John Cha</li>
+                <li><img src="/image/calendar.png" alt="" /> 21-07-2023</li>
+              </ul>
+              <h4 class="my-3">Blog Title</h4>
+              <p class="text-container">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Id eum,
+                in pariatur recusandae libero hic quidem ex exercitationem
+                sapiente? Iusto ea perferendis consequuntur doloremque
+                dignissimos. Corporis numquam quasi atque tempore!
+              </p>
+              <div class="read-btn">
+                <NuxtLink class="read-more" to="/blog-details"
+                  >Read More <img src="/image/arrow.png" alt="" class="icon"
+                /></NuxtLink>
+              </div>
+            </div>
+          </div>
+          <div class="col-4 col-md-4 col-xl-4 px-5 mb-5">
+            <img src="/image/blog6.jpeg" alt="" class="card-image" />
+            <div class="p-3">
+              <ul class="inline-list">
+                <li><img src="/image/user.png" alt="" /> John Cha</li>
+                <li><img src="/image/calendar.png" alt="" /> 21-07-2023</li>
+              </ul>
+              <h4 class="my-3">Blog Title</h4>
+              <p class="text-container">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Id eum,
+                in pariatur recusandae libero hic quidem ex exercitationem
+                sapiente? Iusto ea perferendis consequuntur doloremque
+                dignissimos. Corporis numquam quasi atque tempore!
+              </p>
+              <div class="read-btn">
+                <NuxtLink class="read-more" to="/blog-details"
                   >Read More <img src="/image/arrow.png" alt="" class="icon"
                 /></NuxtLink>
               </div>
             </div>
           </div>
 
-          <div class="col-4 col-md-4 col-xl-4 px-5 mb-5">
-            <img src="/image/slider3.jpg" alt="" class="card-image" />
-            <div class="p-3">
-              <ul class="inline-list">
-                <li><img src="/image/user.png" alt="" /> John Cha</li>
-                <li><img src="/image/calendar.png" alt="" /> 21-07-2023</li>
-              </ul>
-              <h4 class="my-3">Blog Title</h4>
-              <p class="text-container">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Id eum,
-                in pariatur recusandae libero hic quidem ex exercitationem
-                sapiente? Iusto ea perferendis consequuntur doloremque
-                dignissimos. Corporis numquam quasi atque tempore!
-              </p>
-              <div class="read-btn">
-                <NuxtLink class="read-more" to="/blog"
-                  >Read More <img src="/image/arrow.png" alt="" class="icon"
-                /></NuxtLink>
-              </div>
-            </div>
-          </div>
-          <div class="col-4 col-md-4 col-xl-4 px-5 mb-5">
-            <img src="/image/slider2.jpg" alt="" class="card-image" />
-            <div class="p-3">
-              <ul class="inline-list">
-                <li><img src="/image/user.png" alt="" /> John Cha</li>
-                <li><img src="/image/calendar.png" alt="" /> 21-07-2023</li>
-              </ul>
-              <h4 class="my-3">Blog Title</h4>
-              <p class="text-container">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Id eum,
-                in pariatur recusandae libero hic quidem ex exercitationem
-                sapiente? Iusto ea perferendis consequuntur doloremque
-                dignissimos. Corporis numquam quasi atque tempore!
-              </p>
-              <div class="read-btn">
-                <NuxtLink class="read-more" to="/blog"
-                  >Read More <img src="/image/arrow.png" alt="" class="icon"
-                /></NuxtLink>
-              </div>
-            </div>
-          </div>
-          <div class="col-4 col-md-4 col-xl-4 px-5 mb-5">
-            <img src="/image/slider1.jpg" alt="" class="card-image" />
-            <div class="p-3">
-              <ul class="inline-list">
-                <li><img src="/image/user.png" alt="" /> John Cha</li>
-                <li><img src="/image/calendar.png" alt="" /> 21-07-2023</li>
-              </ul>
-              <h4 class="my-3">Blog Title</h4>
-              <p class="text-container">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Id eum,
-                in pariatur recusandae libero hic quidem ex exercitationem
-                sapiente? Iusto ea perferendis consequuntur doloremque
-                dignissimos. Corporis numquam quasi atque tempore!
-              </p>
-              <div class="read-btn">
-                <NuxtLink class="read-more" to="/blog"
-                  >Read More <img src="/image/arrow.png" alt="" class="icon"
-                /></NuxtLink>
-              </div>
-            </div>
-          </div>
+          
           
           
         </div>  

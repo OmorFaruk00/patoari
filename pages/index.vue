@@ -2,6 +2,7 @@
     <div>     
        
         <Slider />
+        <Service />
         <Blog />
 
 

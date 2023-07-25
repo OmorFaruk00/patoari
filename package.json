@@ -12,5 +12,8 @@
     "@nuxt/devtools": "latest",
     "@types/node": "^18.16.19",
     "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "owl.carousel": "^2.3.4"
   }
 }

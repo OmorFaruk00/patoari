@@ -8,6 +8,7 @@ export default defineNuxtConfig({
       ],
       script:[
         {src:"js/bootstrap.min.js", body:true},
+        {src:"js/jquery.min.js", body:true},
         {src:"js/popper.min.js", body:true},
         {src:"js/bundle.min.js", body:true},
         {src:"js/custom.js", body:true},
@@ -15,5 +16,6 @@ export default defineNuxtConfig({
     }
     
   },
+
   
 })

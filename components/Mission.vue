@@ -138,6 +138,7 @@
   letter-spacing: 1px;
   margin: 0 0 0 10px;
   text-decoration: none;
+  text-align: justify;
 }
 .main-timeline .timeline:nth-child(even) {
   float: left;
